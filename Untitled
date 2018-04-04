@@ -10,7 +10,7 @@
       
       .header,
       .footer {
-        background-color: maroon;
+        background-color: black;
         color: white;
         padding: 15px;
       }
@@ -47,12 +47,12 @@
       .menu li {
         padding: 8px;
         margin-bottom: 8px;
-        background-color: teal;
-        color: #ffffff;
+        background-color: black;
+        color: black;
       }
       
       .menu li:hover {
-        background-color: #0099cc;
+        background-color: black;
       }
       
     </style>
@@ -78,7 +78,7 @@ href="https://mrbrown85.github.io/departments.html">Accomplishments</a></li>
       <div class="column content">
         <img
 src="https://www.surreyschools.ca/schools/envercreek/Style%20Library/Images/114.jpg">
-        <h1>Contact Information</h1>
+       <h1>Contact Information</h1>
      <p>  
 14505-84 Avenue
 Surrey, B.C. Canada
